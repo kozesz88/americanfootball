@@ -1,0 +1,2 @@
+rootProject.name='american football'
+include ':app'
